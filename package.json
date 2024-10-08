@@ -1,0 +1,12 @@
+{
+  "name": "dio-lab-classificador-nivel-heroi",
+  "version": "1.0.0",
+  "main": "ClassificadorHeroi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
